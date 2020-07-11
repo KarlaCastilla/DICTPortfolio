@@ -1,0 +1,72 @@
+@font-face {
+	font-family: Polly;
+	src: url(fonts/PollyRounded-Regular.otf);
+}
+
+@font-face {
+	font-family: Peach;
+	src: url(fonts/peach-sundress.ttf);
+}
+
+* {
+	font-family: Polly;
+}
+
+.full-screen {
+	height: 100vh;
+}
+
+.cream-bg {
+	background: #EBD494;
+}
+
+.tea-bg {
+	background: #D7EBBA;
+}
+
+.my-pets {
+	padding-top: 10;
+	font-size: 50pt;
+	color: #472836;
+	font-family: Peach;
+}
+
+.pets {
+	font-family: Polly;
+}
+
+.flowers {
+	width: 100%;
+	bottom: inherit;
+	margin-bottom: -100px;
+	padding-bottom: -200px;
+}
+
+.pet-pictures {
+	padding-top: 50%;
+	width: 100%;
+}
+
+.descriptions {
+	padding-top: 20%;
+}
+
+.space-xs {
+	padding: 20px;
+}
+
+.names {
+	color: #472836;
+}
+
+.introductory {
+	font-size: 12pt;
+}
+
+.logo {
+	padding-bottom: 0;
+	margin-bottom: -50px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
